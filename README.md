@@ -13,8 +13,15 @@ Dowiemy się jak zautomatyzować operacje na interfejsie aplikacji webowej.
 * Wymagania które ma spełniać nasza aplikacja: [Wymagania](Wymagania.md)
 * Zadanie domowe i informacje o projektach: [Zadanie domowe i projekt](ZadanieDomowe.md)
 * Kod: [UamTTA](kod/UamTTA)
+* Uruchamianie aplikacji webowej: [Instrukcja](Uruchamianie.md)
 
 ### Pomocne zasoby
+
+Narzędzia użyte przy tworzeniu przykdowej aplikacji webowej
+* [Angular.js](https://angularjs.org/)
+* [Tutorial Angular](http://www.w3schools.com/angular/)
+* [node.js](https://nodejs.org/en/) - użyte do serwowania aplikacji
+
 Testy aplikacji webowej będziemy uruchamiać za pomocą Selenium:
 * [Strona Selenium](http://docs.seleniumhq.org/)
 * [Pakiety NuGet Selenium dla projektów .NET](https://www.nuget.org/profiles/selenium)
